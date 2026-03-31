@@ -6,7 +6,7 @@ class NovoMolde():
         self.number = number
     #número guardado
 
-    #o returnNumber serve para mexer no init(caixafechada,banco) sem mexer nele
+    #o returnNumber serve para mexer no init(caixafechada,caixaeletronico) sem mexer nele, em suas "tripas"
     def returnNumber(self):
         return self.number
 
